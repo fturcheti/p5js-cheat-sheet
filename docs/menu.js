@@ -2,7 +2,7 @@ document.write(`
 
 <header id="page-header">
   <ul id="language-selection">
-    <li id="print"> 🖨 </li>
+    <li id="print">🖨 </li>
     <li> | </li>
     <li><a href="index.html">English</a></li>
     <li><a href="es.html">Español</a></li>
@@ -18,10 +18,6 @@ document.write(`
     <li><a href="https://p5js.org/reference/">p5js Reference</a></li>
   </ul>
 </header>
-
-<style>
-  #print:hover{cursor:pointer;}
-</style>
 
 `)
 
